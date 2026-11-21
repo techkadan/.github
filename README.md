@@ -1,6 +1,6 @@
 # .github
 
-tech火団（techkadan）の Organization 全体で使う共通設定を置くリポジトリです。
+tech火団（techkadan）の Organization 全体で使う共通設定を置くリポジトリです
 
 ## 中身
 
@@ -10,3 +10,5 @@ tech火団（techkadan）の Organization 全体で使う共通設定を置く�
 
 今後、Issue / PR テンプレートなどを置く場合も、このリポジトリに追加します<br>
 ここに置いたテンプレートは、自前のテンプレートを持たない techkadan のリポジトリでデフォルトとして使われます
+
+アイコン画像の著作権は `tech火団` に帰属します。無断での転載・利用はご遠慮ください
