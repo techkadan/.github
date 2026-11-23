@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./icon.png" width="160" alt="tech火団" />
+<img src="icon.png" width="160" alt="tech火団" />
 
 # tech火団
 
